@@ -1,0 +1,140 @@
+.aysle {
+    background-image: url('../assets/aysle/background.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 3%;
+}
+
+.empiredunil {
+    background-image: url('../assets/empire_du_nil/background.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 3%;
+}
+
+.cyberpapaute {
+    background-image: url('../assets/cyberpapauté/background.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 3%;
+}
+
+.orrorsh {
+    background-image: url('../assets/orrorsh/background.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 3%;
+}
+
+.panpacifica {
+    background-image: url('../assets/pan_pacifica/background.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 3%;
+}
+
+.terrevivante {
+    background-image: url('../assets/terre_vivante/background.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 3%;
+}
+
+.tharkold {
+    background-image: url('../assets/tharkold/background.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 3%;
+}
+
+.logo {
+    width: auto;
+    height: 100px;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 4em;
+    width: fit-content;
+    margin: 0;
+    text-shadow: gray 0 0 15px;
+    padding: 0 35px;
+}
+
+.name {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: fit-content;
+    margin: auto;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.description {
+    background-image: url('../assets/home/bgDescription.webp');
+    background-size: cover;
+    width: 50%;
+    background-color: white;
+    border-radius: 10px;
+    margin: 3% 0;
+    padding: 10px;
+    font-size: 1.2em;
+}
+
+.cosm {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.lord {
+    width: 20vw;
+    height: fit-content;
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+    margin: 3% 0;
+}
+.lord h2 {
+    font-size: 2.3em;
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    text-shadow: rgb(83, 83, 83) 0 0 15px;
+}
+
+.lord img {
+    width: 20vw;
+    padding-bottom: 15px;
+}
+
+.axiomes {
+    background-image: url('../assets/home/axiomes.webp');
+    background-size: cover;
+    width: 20vw;
+    height: fit-content;
+    border-radius: 10px;
+    background-color: white;
+    margin: 3% 0;
+    padding: 0 0 15px 0;
+}
+.axiomes h2 {
+    font-size: 2.5em;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    margin: 0;
+    text-align: center;
+    text-shadow: rgb(138, 112, 0) 0 0 15px;
+}
+
+h3 {
+    margin-bottom: 0;
+}
+
+.detailAxiomes {
+    padding: 0 10px;
+    display: inline-block;
+    text-align: justify;
+    font-size: 1.2em;
+}

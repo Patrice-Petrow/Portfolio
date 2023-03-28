@@ -1,0 +1,13 @@
+footer {
+    height: 125px;
+    background-image: url('../assets/home/header.webp');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 3px solid black;
+    font-family: alaska extrabold;
+    font-weight: bold;
+    text-shadow: white 0 0 10px;
+    color: rgb(0, 0, 92);
+}

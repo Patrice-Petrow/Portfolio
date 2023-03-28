@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://www.collonvaillant.fr/</loc>
+  <lastmod>2022-07-06T13:10:59+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.collonvaillant.fr/index.php</loc>
+  <lastmod>2022-07-06T13:10:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.collonvaillant.fr/contact.php</loc>
+  <lastmod>2022-07-06T13:10:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.collonvaillant.fr/devis.php</loc>
+  <lastmod>2022-07-06T13:10:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.collonvaillant.fr/temoignages.php</loc>
+  <lastmod>2022-07-06T13:10:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.collonvaillant.fr/prevoyance.php</loc>
+  <lastmod>2022-07-06T13:10:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.collonvaillant.fr/connexion.php</loc>
+  <lastmod>2022-07-06T13:10:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.collonvaillant.fr/inscription.php</loc>
+  <lastmod>2022-07-06T13:10:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.collonvaillant.fr/emplois.php</loc>
+  <lastmod>2022-07-06T13:10:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.collonvaillant.fr/spontanee.php</loc>
+  <lastmod>2022-07-06T13:10:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.collonvaillant.fr/rgpd.php</loc>
+  <lastmod>2022-07-06T13:10:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>

@@ -1,0 +1,319 @@
+/******************************************/
+/*****     Photo dans les headers     *****/
+/******************************************/
+.headercontact {
+    background-image: linear-gradient(to bottom, rgba(85, 52, 151, 0.5) 0%, rgba(85, 52, 151, 0.5) 100%), url("../assets/img/portfolio/thumbnails/5-bis.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30%;
+  }
+
+  .headerdevis {
+    background-image: linear-gradient(to bottom, rgba(85, 52, 151, 0.5) 0%, rgba(85, 52, 151, 0.5) 100%), 
+                  url("../assets/img/portfolio/thumbnails/4-bis.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30%;
+  }
+  
+  .headerconnexion {
+    background-image: linear-gradient(to bottom, rgba(85, 52, 151, 0.5) 0%, rgba(85, 52, 151, 0.5) 100%), url("../assets/img/portfolio/thumbnails/3-bis.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30%;
+  }
+  
+  .headerinscription {
+    background-image: linear-gradient(to bottom, rgba(85, 52, 151, 0.5) 0%, rgba(85, 52, 151, 0.5) 100%), url("../assets/img/portfolio/thumbnails/1-bis.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30%;
+  }
+  
+  .headeremplois {
+    background-image: linear-gradient(to bottom, rgba(85, 52, 151, 0.5) 0%, rgba(85, 52, 151, 0.5) 100%), url("../assets/img/portfolio/thumbnails/6-bis.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30%;
+  }
+    
+  .headertemoignages {
+    background-image: linear-gradient(to bottom, rgba(85, 52, 151, 0.5) 0%, rgba(85, 52, 151, 0.5) 100%), url("../assets/img/portfolio/thumbnails/2-bis.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30%;
+  }
+
+  .header404 {
+    background-image: linear-gradient(to bottom, rgba(85, 52, 151, 0.5) 0%, rgba(85, 52, 151, 0.5) 100%), url("../assets/img/portfolio/thumbnails/6-bis.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30%;
+  }
+
+@media (max-width: 768px) {
+  .headercontact {
+    background-position: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .headerdevis, .headerconnexion, .headerinscription, .headeremplois {
+    background-position-x: 30%;
+  }
+}
+
+@media (max-width: 768px) {
+  .headertemoignages {
+    background-position-x: 50% ;
+  }
+}
+
+/*************************************************************************/
+/*****     Liens dans le footer Emploi et Candidature spontannée     *****/
+/*************************************************************************/
+  .liensfooter {
+    color: #6c757d;
+  }
+ 
+@media (max-width: 767px) {
+  .liensfooter {
+    font-size: 15px;
+    padding-left: 10% !important;
+    padding-right: 10% !important;
+  }
+}
+
+
+/***************************************************/
+/*****     Liens dans le footer CGV et CGU     *****/
+/***************************************************/
+  .liensCG {
+    color: #6c757d;
+    font-size: 10px;
+  }
+ 
+.liensCG:hover {
+  cursor: pointer;
+}
+
+@media (max-width: 767px) {
+  .liensCG {
+    font-size: 10px;
+    padding-left: 10% !important;
+    padding-right: 10% !important;
+
+  }
+}
+
+
+/**********************************************************************/
+/*****     Séparateur vertical Empoi & Candidature spontannée     *****/
+/**********************************************************************/
+  .separateurV1 {
+    color: #6c757d;
+    font-size: 15px;
+    display: inline;
+  }
+
+@media (max-width: 767px) {
+  .separateurV1 {
+    font-size: 15px;
+    display: none;
+  }
+}
+
+
+/**************************************************/
+/*****     Séparateur vertical CGU & RGPD     *****/
+/**************************************************/
+  .separateurV2 {
+    color: #6c757d;
+    font-size: 15px;
+    display: inline;
+  }
+ 
+@media (max-width: 767px) {
+  .separateurV2 {
+    font-size: 15px;
+    display: none;
+  }
+}
+
+
+/*****************************************/
+/*****     Séparateur horizontal     *****/
+/*****************************************/
+
+  .separateurH {
+    color: #6c757d;
+    font-size: 15px;
+    display: none;
+  }
+ 
+@media (max-width: 767px) {
+  .separateurH {
+    display: inline;
+  }
+}
+
+
+/*****************************************************/
+/*****     Personalisation de certains texte     *****/
+/*****************************************************/
+  .fontlabel {
+    font-family: var(--bs-font-sans-serif);
+  }
+
+
+/******************************/
+/*****     Google map     *****/
+/******************************/
+  @media (max-width: 374px) {
+    .googleMap {
+      width: 200px;
+      height: 188px;
+      margin-bottom: 5%;
+    }
+  }
+  
+  @media (min-width: 375px) and (max-width: 768px) {
+    .googleMap {
+      width: 300px;
+      height: 225px;
+      margin-bottom: 5%;
+    }
+  }
+
+/*****************************************/
+/*****     Card pour les emplois     *****/
+/*****************************************/
+.jobdescription {
+  height: 244px;
+  overflow: hidden;
+  white-space: pre-wrap;
+}
+
+.jobmodal {
+  white-space: pre-wrap;
+}
+
+
+/*******************************************/
+/*****     Lien de la page Contact     *****/
+/*******************************************/
+.lienContact {
+  color: #212529;
+}
+
+.footerbg {
+  background-color: rgba(0, 0, 0, 0.03);
+}
+
+
+/***********************************************/
+/*****     Logo du site dans la navbar     *****/
+/***********************************************/
+.logo {
+  height: 75px;
+  width: auto;
+  transition: 1s;
+}
+
+.scroll {
+  height: 50px;
+  width: auto;
+  transition: 1s;
+}
+
+@media (max-width: 768px) {
+  .logo {
+  height: 50px;
+  width: auto;    
+  }
+}
+
+
+/*************************************************/
+/*****     Animations de la page d'Index     *****/
+/*************************************************/
+.opacity0 {
+  opacity: 0;
+  transition: 1s;
+}
+
+.opacity1 {
+  opacity: 1;
+  transition: 3s;
+}
+
+
+/*******************************************************/
+/*****     Animations de la page d'Inscription     *****/
+/*******************************************************/
+.dimension0 {
+  transform: scale(0.1);
+}
+
+.dimension100 {
+ transform: scale(1);
+ transition: 4s;
+}
+
+/***********************/
+/*****     CGU     *****/
+/***********************/
+.cgu {
+  font-size: 14px !important;
+}
+
+.lienCGU {
+  font-size: 12px;
+}
+
+@media (max-width: 768px) {
+  .cgu {
+    font-size: 10px !important;
+  }
+  .lienCGU {
+    font-size: 8px;
+  }
+}
+
+/*****************************/
+/*****     CGU Modal     *****/
+/*****************************/
+.cguModal {
+  display: none;
+  position: fixed; 
+  z-index: 1; 
+  left: 10%;
+  top: 10%;
+  width: 80%; 
+  height: 80%; 
+  overflow: auto; 
+  background-color: rgb(250, 250, 255); 
+}
+
+/****************************/
+/***** Vidéo Prévoyance *****/
+/****************************/
+.videoPrevoyance {
+  width: 700px;
+  height: 395px;
+}
+
+
+@media (max-width: 750px) {
+  .videoPrevoyance {
+    width: 560px;
+    height: 315px;
+  }
+} 
+
+@media (max-width: 550px) {
+  .videoPrevoyance {
+    width: 315px;
+    height: 178px;
+  }
+} 
